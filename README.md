@@ -3,8 +3,7 @@
 - ☕ I'm currently on a career break and casually looking out for new opportunities 
 - 💻  I previously worked as a Tech Lead for [@newscorpaus](https://github.com/newscorpaus) with [VIP Enterprise WordPress](https://wpvip.com/) from January 2020 to April 2024
 - 🌱 I'm currently learning WordPress related topics: open source, Gutenberg, Blocks and so on
-- 👯 I'm looking to collaborate on **open source projects**, preferably with **PHP** and **WordPress**, reach out!
-- 📫 Find me on [![LinkedIn: freibergergarcia](https://img.shields.io/badge/-freibergergarcia-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/freibergergarcia/)](https://www.linkedin.com/in/freibergergarcia/)
+- 👯 I'm looking to collaborate on **open source projects**, preferably with **PHP** and **WordPress**, reach out
 
 
 #### 
